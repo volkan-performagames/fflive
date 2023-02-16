@@ -1,0 +1,16 @@
+<svg id="Group_4641" data-name="Group 4641" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326.648" height="794" viewBox="0 0 326.648 794">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.848" y1="0.866" x2="0.969" y2="0.056" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#321450"/>
+      <stop offset="1" stop-color="#190a28"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_7902" data-name="Path 7902" d="M0,794H326.648V0H257.986Z" transform="translate(0)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4537" data-name="Group 4537" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <g id="Group_4536" data-name="Group 4536" transform="translate(-1352.848 -53.015)">
+      <path id="Union_70" data-name="Union 70" d="M932.061,973.247,0,296.068V148.547l1135.1,824.7Zm-610.778,0L0,739.823V592.3L524.327,973.247Zm-305.389,0L0,961.7V814.181L218.939,973.247Zm1221.555,0L0,74.188V0H100.931L1440.493,973.246Zm-610.777,0L0,517.944V370.424L829.715,973.246ZM508.665,0H711.709l1018.51,739.991V887.51ZM814.054,0H1017.1l713.121,518.113v147.52Zm305.389,0h203.044l407.733,296.235V443.754Zm305.389,0h203.044l102.344,74.357V221.876Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

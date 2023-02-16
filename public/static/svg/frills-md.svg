@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="100" viewBox="0 0 768 100">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3263" data-name="Rectangle 3263" width="768" height="100" transform="translate(-3202 -19698)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.832" y1="0.625" x2="0.117" y2="0.625" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#321450"/>
+      <stop offset="1" stop-color="#190a28"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.994" y1="0.478" x2="0.282" y2="0.465" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Mask_Group_193" data-name="Mask Group 193" transform="translate(3202 19698)" clip-path="url(#clip-path)">
+    <g id="Group_4536" data-name="Group 4536" transform="translate(-2372.43 -19489.318) rotate(180)">
+      <path id="Union_70" data-name="Union 70" d="M476.675,300.695,62.8,0h62.732L534.568,297.178v3.517Zm-94.354,0L0,22.921V0H31.184L445.055,300.695Zm-94.352,0L0,91.473V45.9l350.7,254.8Zm-94.354,0L0,160.024V114.447L256.349,300.695Zm-94.352,0L0,228.575V183l162,117.7Zm-94.354,0L0,297.127V251.55l67.644,49.145ZM157.157,0H219.89L534.568,228.627v45.578ZM251.51,0h62.732L534.568,160.075v45.579Zm94.352,0H408.6L534.568,91.524V137.1Zm94.354,0h62.733l31.62,22.973V68.551Z" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_6059" data-name="Group 6059" transform="translate(-3352.57 -19790.014)">
+      <path id="Union_70-2" data-name="Union 70" d="M476.675,300.695,62.8,0h62.732L534.568,297.178v3.517Zm-94.354,0L0,22.921V0H31.184L445.055,300.695Zm-94.352,0L0,91.473V45.9l350.7,254.8Zm-94.354,0L0,160.024V114.447L256.349,300.695Zm-94.352,0L0,228.575V183l162,117.7Zm-94.354,0L0,297.127V251.55l67.644,49.145ZM157.157,0H219.89L534.568,228.627v45.578ZM251.51,0h62.732L534.568,160.075v45.579Zm94.352,0H408.6L534.568,91.524V137.1Zm94.354,0h62.733l31.62,22.973V68.551Z" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="409.239" height="598.348" viewBox="0 0 409.239 598.348">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.484" y1="1" x2="0.477" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#641eaa"/>
+      <stop offset="0.2" stop-color="#681ca9"/>
+      <stop offset="0.408" stop-color="#7418a9"/>
+      <stop offset="0.618" stop-color="#8912a8"/>
+      <stop offset="0.83" stop-color="#a609a6"/>
+      <stop offset="1" stop-color="#c300a5"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_8634" data-name="Path 8634" d="M828.916,1668.581H957.81l194.415-598.348H1023.331Z" transform="translate(-828.916 -1070.233)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5015" data-name="Group 5015" transform="translate(-742.749 -1070.233)">
+    <path id="Path_8633" data-name="Path 8633" d="M1151.918,1070.233H937.164L742.749,1668.581H957.573Z" transform="translate(0)" fill="url(#linear-gradient)"/>
+    <g id="Group_5014" data-name="Group 5014" transform="translate(828.679 1070.233)">
+      <g id="Group_5013" data-name="Group 5013" clip-path="url(#clip-path)">
+        <g id="Group_5012" data-name="Group 5012" transform="translate(-717.395 -265.416)">
+          <g id="Group_5002" data-name="Group 5002" transform="translate(1002.335)">
+            <line id="Line_370" data-name="Line 370" x2="886.481" y2="644.066" fill="none" stroke="#641eaa" stroke-miterlimit="10" stroke-width="70"/>
+          </g>
+          <g id="Group_5003" data-name="Group 5003" transform="translate(890.964 47.418)">
+            <line id="Line_371" data-name="Line 371" x2="902.149" y2="655.608" fill="none" stroke="#641eaa" stroke-miterlimit="10" stroke-width="70"/>
+          </g>
+          <g id="Group_5004" data-name="Group 5004" transform="translate(779.594 94.835)">
+            <line id="Line_372" data-name="Line 372" x2="917.817" y2="667.151" fill="none" stroke="#641eaa" stroke-miterlimit="10" stroke-width="70"/>
+          </g>
+          <g id="Group_5005" data-name="Group 5005" transform="translate(668.223 142.253)">
+            <line id="Line_373" data-name="Line 373" x2="933.485" y2="678.693" fill="none" stroke="#641eaa" stroke-miterlimit="10" stroke-width="70"/>
+          </g>
+          <g id="Group_5006" data-name="Group 5006" transform="translate(556.853 189.671)">
+            <line id="Line_374" data-name="Line 374" x2="949.153" y2="690.235" fill="none" stroke="#641eaa" stroke-miterlimit="10" stroke-width="70"/>
+          </g>
+          <g id="Group_5007" data-name="Group 5007" transform="translate(445.482 237.088)">
+            <line id="Line_375" data-name="Line 375" x2="964.82" y2="701.777" fill="none" stroke="#641eaa" stroke-miterlimit="10" stroke-width="70"/>
+          </g>
+          <g id="Group_5008" data-name="Group 5008" transform="translate(334.112 284.506)">
+            <line id="Line_376" data-name="Line 376" x2="980.488" y2="713.32" fill="none" stroke="#641eaa" stroke-miterlimit="10" stroke-width="70"/>
+          </g>
+          <g id="Group_5009" data-name="Group 5009" transform="translate(222.741 331.923)">
+            <line id="Line_377" data-name="Line 377" x2="996.156" y2="724.862" fill="none" stroke="#641eaa" stroke-miterlimit="10" stroke-width="70"/>
+          </g>
+          <g id="Group_5010" data-name="Group 5010" transform="translate(111.371 379.341)">
+            <line id="Line_378" data-name="Line 378" x2="1011.824" y2="736.404" fill="none" stroke="#641eaa" stroke-miterlimit="10" stroke-width="70"/>
+          </g>
+          <g id="Group_5011" data-name="Group 5011" transform="translate(0 426.759)">
+            <line id="Line_379" data-name="Line 379" x2="1027.491" y2="747.947" fill="none" stroke="#641eaa" stroke-miterlimit="10" stroke-width="70"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

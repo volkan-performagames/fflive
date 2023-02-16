@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="330" height="330" viewBox="0 0 330 330">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#321450"/>
+      <stop offset="0.118" stop-color="#321450"/>
+      <stop offset="1" stop-color="#190a28"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3568" data-name="Rectangle 3568" width="165" height="330" transform="translate(125.216 1)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_6045" data-name="Group 6045" transform="translate(-15 -198)">
+    <rect id="Rectangle_3740" data-name="Rectangle 3740" width="330" height="330" transform="translate(15 198)" fill="url(#linear-gradient)"/>
+    <g id="Group_5826" data-name="Group 5826" transform="translate(-110.216 197)">
+      <g id="Group_5501" data-name="Group 5501" clip-path="url(#clip-path)">
+        <g id="Group_5500" data-name="Group 5500" transform="translate(-355.353 -362.361)">
+          <g id="Group_5499" data-name="Group 5499">
+            <line id="Line_500" data-name="Line 500" x1="391.04" y1="284.107" transform="translate(666.483)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_501" data-name="Line 501" x1="486.252" y1="353.283" transform="translate(571.271 42.735)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_502" data-name="Line 502" x1="581.463" y1="422.458" transform="translate(476.059 85.471)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_503" data-name="Line 503" x1="676.675" y1="491.634" transform="translate(380.847 128.206)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_504" data-name="Line 504" x1="771.887" y1="560.81" transform="translate(285.635 170.942)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_505" data-name="Line 505" x1="867.099" y1="629.985" transform="translate(190.424 213.677)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_506" data-name="Line 506" x1="962.311" y1="699.161" transform="translate(95.212 256.412)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_507" data-name="Line 507" x1="1057.523" y1="768.337" transform="translate(0 299.148)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_6039" data-name="Group 6039" transform="translate(54.784 197)" opacity="0.5">
+      <g id="Group_5501-2" data-name="Group 5501" clip-path="url(#clip-path)">
+        <g id="Group_5500-2" data-name="Group 5500" transform="translate(-366.353 -362.361)">
+          <g id="Group_5499-2" data-name="Group 5499">
+            <line id="Line_500-2" data-name="Line 500" x1="391.04" y1="284.107" transform="translate(666.483)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_501-2" data-name="Line 501" x1="486.252" y1="353.283" transform="translate(571.271 42.735)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_502-2" data-name="Line 502" x1="581.463" y1="422.458" transform="translate(476.059 85.471)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_503-2" data-name="Line 503" x1="676.675" y1="491.634" transform="translate(380.847 128.206)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_504-2" data-name="Line 504" x1="771.887" y1="560.81" transform="translate(285.635 170.942)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_505-2" data-name="Line 505" x1="867.099" y1="629.985" transform="translate(190.424 213.677)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_506-2" data-name="Line 506" x1="962.311" y1="699.161" transform="translate(95.212 256.412)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+            <line id="Line_507-2" data-name="Line 507" x1="1057.523" y1="768.337" transform="translate(0 299.148)" fill="none" stroke="#190a28" stroke-miterlimit="10" stroke-width="60"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

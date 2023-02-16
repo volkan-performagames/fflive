@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="805" height="522" viewBox="0 0 805 522">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.012" y1="0.389" x2="0.685" y2="0.393" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#190a28"/>
+      <stop offset="1" stop-color="#321450"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3939" data-name="Rectangle 3939" width="180" height="224" transform="translate(540.3 4542)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#190a28"/>
+      <stop offset="1" stop-color="#190a28" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_6242" data-name="Group 6242" transform="translate(6759.804 21325.625)">
+    <rect id="Rectangle_3938" data-name="Rectangle 3938" width="805" height="522" transform="translate(-6759.804 -21325.625)" fill="#190a28"/>
+    <g id="Mask_Group_404" data-name="Mask Group 404" transform="translate(-7031.104 -25569.625)" clip-path="url(#clip-path)">
+      <g id="Group_6204" data-name="Group 6204" transform="translate(1058.2 5116.981) rotate(180)">
+        <path id="Union_146" data-name="Union 146" d="M1021.2,575.655l2.185-6.729v6.729Zm-14.29,0,16.475-50.712v43.983l-2.185,6.729Zm-42.643,0,59.117-181.946v43.979L978.555,575.655Zm-42.639,0,101.756-313.184v43.982l-87.467,269.2Zm-42.643,0,144.4-444.417V175.22L893.273,575.655Zm-42.643,0L1023.383,0V43.982L850.635,575.655Zm-42.639,0L980.744,0h14.29L807.992,575.655Zm-42.642,0L938.1,0h14.29L765.35,575.655Zm-42.639,0L895.459,0h14.293L722.711,575.655Zm-42.643,0L852.82,0h14.29L680.069,575.655Zm-42.643,0L810.177,0h14.29L637.43,575.655Zm-42.639,0L767.539,0h14.289L594.787,575.655Zm-42.643,0L724.9,0h14.29L552.145,575.655Zm-42.639,0L682.258,0h14.29L509.506,575.655Zm-42.643,0L639.615,0H653.9L466.863,575.655Zm-42.643,0L596.973,0h14.293L424.225,575.655Zm-42.639,0L554.334,0h14.29L381.582,575.655Zm-42.643,0L511.691,0h14.29L338.94,575.655Zm-42.639,0L469.052,0h14.29L296.3,575.655Zm-42.642,0L426.41,0H440.7L253.658,575.655Zm-42.643,0L383.768,0h14.293L211.02,575.655Zm-42.639,0L341.129,0h14.29L168.377,575.655Zm-42.643,0L298.486,0h14.29L125.735,575.655Zm-42.639,0L255.847,0h14.29L83.1,575.655Zm-42.642,0L213.205,0h14.29L40.453,575.655ZM0,524.943,170.563,0h14.293L0,568.927ZM0,393.709,127.924,0h14.29L0,437.688ZM0,262.472,85.281,0h14.29L0,306.454ZM0,131.238,42.642,0h14.29L0,175.22ZM0,0H14.29L0,43.982Z" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <rect id="Rectangle_3940" data-name="Rectangle 3940" width="360" height="94" transform="translate(-6490.804 -21072.625)" fill="#190a28"/>
+    <rect id="Rectangle_3944" data-name="Rectangle 3944" width="805" height="136" transform="translate(-5954.804 -20803.625) rotate(180)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>
