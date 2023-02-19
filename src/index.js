@@ -6,13 +6,12 @@ const App = () => {
     <div className="main-content">
       <div>
         <img
-          src="./static/svg/header-logo-desktop-sticky.svg"
+          src="./static/svg/fantazzie.svg"
           alt="Home"
-          style={{ margin: 15, width: 125 }}
+          style={{ margin: 15, width: 250 }}
         />
       </div>
       <div className="game-banner-2022 fflive-mobile">
-        <h1 className="sr-only">Fantazzie Live</h1>
         <img
           src="./static/svg/bg-sm.svg"
           className="game-banner-2022__bg hide-for-large"
@@ -63,11 +62,7 @@ const App = () => {
                 visibility: "visible",
               }}
             >
-              <img
-                src="./static/svg/fantazzie.svg"
-                className="game-banner-2022__logo"
-                alt=""
-              />
+              <h1 style={{ color: "white" }}>FFLive</h1>
             </div>
           </div>
         </div>
@@ -114,11 +109,7 @@ const App = () => {
                 visibility: "visible",
               }}
             >
-              <img
-                src="./static/svg/fantazzie.svg"
-                className="game-banner-2022__logo"
-                alt=""
-              />
+              <h1 style={{ color: "white" }}>FFLive</h1>
             </div>
             <div
               className="copy game-banner-2022__content"
